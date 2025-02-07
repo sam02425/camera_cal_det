@@ -1,6 +1,6 @@
 # Dual Camera Product Detection System
 
-This project implements a real-time product detection system using two cameras, YOLOv8 for object detection, and a weight sensing system. The system performs camera calibration, product detection, and fusion of visual and weight data for accurate product identification.
+This project implements a real-time product detection system using two+ cameras, YOLOv8 for object detection, and a weight sensing system. The system performs camera calibration, product detection, and fusion of visual and weight data for accurate product identification.
 
 ## Hardware Requirements
 
